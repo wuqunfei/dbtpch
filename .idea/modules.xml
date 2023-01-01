@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/dbtdemo.iml" filepath="$PROJECT_DIR$/.idea/dbtdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dbtpch.iml" filepath="$PROJECT_DIR$/.idea/dbtpch.iml" />
     </modules>
   </component>
 </project>
